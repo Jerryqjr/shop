@@ -1,0 +1,14 @@
+p{
+    text-align:left;
+    text-decoration: line-through;
+    letter-spacing: 4px;
+    color: blue;
+}
+
+#ul1{
+    list-style-type:circle ;
+}
+
+body{
+    background-color: antiquewhite;
+}
